@@ -88,19 +88,21 @@
 
 ## Sony's Game Console
 
-### Sony Play Station 1 (PS1 / PSX)
+### Sony PlayStation 1 (PS1 / PSX)
 
-### Sony Play Station 2 (PS2)
+### Sony PlayStation 2 (PS2)
 
-### Sony Play Station 3 (PS3)
+### Sony PlayStation 3 (PS3)
 
-### Sony Play Station 4 (PS4)
+### Sony PlayStation 4 (PS4)
 
-### Sony Play Station 5 (PS5)
+### Sony PlayStation 5 (PS5)
 
-### Sony Play Station Portable (PSP)
+### Sony PlayStation Portable (PSP)
 
-### Sony Play Station Vita (PS Vita)
+### Sony PlayStation Vita (PS Vita)
+
+- [[EN] Awesome PlayStation Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita)
 
 ## Sega's Game Console
 

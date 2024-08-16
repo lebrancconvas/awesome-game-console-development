@@ -92,7 +92,7 @@
 
 ### Sony PlayStation 2 (PS2)
 
-[[EN] Awesome Open PlayStation 2 Projects](https://github.com/terremoth/awesome-ps2)
+- [[EN] Awesome Open PlayStation 2 Projects](https://github.com/terremoth/awesome-ps2)
 
 ### Sony PlayStation 3 (PS3)
 

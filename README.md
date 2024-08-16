@@ -22,12 +22,29 @@
 - [[EN: Video Playlist] Microprocessors and Microcontrollers (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgyFCCgqdcBowmSp_BTKs4F)
 - [[EN: Video Playlist] Computer Organization and Architecture (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q)
 - [[EN: Video Playlist] Operating System (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+- [[EN: Video Playlist] 16-Bit Virtual Machine (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
+- [[EN: Video Playlist] The Bits and Bytes of Binary (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW47oPsNBFNEi_SYTOLDJXqQ)
+- [[EN: Video Playlist] GameBoy (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW6sfQpsO2qNfCGDaKCUJDSC)
+- [[EN: Video Playlist] Source Dive (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW4Mw8mgvP87Zk33LRcKA9bl)
+- [[EN: Video Playlist] Blinky To Bootloader: Bare Metal Programming Series (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ)
+- [[EN: Video Playlist] RISC-V CPU in TypeScript (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH)
+
+## Emulator
+
+- [[EN] Awesome Emulator](https://github.com/alnacle/awesome-emulators)
+- [[EN] Awesome Portablizing](https://github.com/mackieks/awesome-portablizing)
 
 ## Nintendo's Game Console
 
 ### Famicom (FC) / Nintendo Entertainment System (NES)
 
+- [[EN] NES Development](https://github.com/denisenepraunig/nes-development)
+- [[EN] NES Starter Kit](https://github.com/igwgames/nes-starter-kit)
+- [[EN] How to Program NES Game in C](https://nesdoug.com/)
+
 ### Super Famicom (SFC) / Super Nintendo Entertainment System (SNES)
+
+- [[EN] Super Nintendo Architecture (Rodrigo Copetti)](https://www.copetti.org/writings/consoles/super-nintendo/)
 
 ### Game Boy (GB)
 

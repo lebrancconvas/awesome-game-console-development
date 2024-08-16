@@ -4,6 +4,10 @@
 
 ### Assembly
 
+- [[EN: Video] Assembly Language in 100 Seconds (Fireship)](https://www.youtube.com/watch?v=4gwYkEK0gOk)
+- [[EN: Video] you can become a GIGACHAD assembly programmer in 10 minutes (try it RIGHT NOW) (Low Level Learning)](https://www.youtube.com/watch?v=6S5KRJv-7RU)
+- [[EN: Video] Assembly Language Tutorial (Derek Banas)](https://www.youtube.com/watch?v=ViNnfoE56V8)
+
 ### C
 - [[EN: Video Playlist] C Programming and Data Structures (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 

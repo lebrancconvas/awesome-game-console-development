@@ -36,6 +36,7 @@
 - [[EN: Video Playlist] Source Dive (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW4Mw8mgvP87Zk33LRcKA9bl)
 - [[EN: Video Playlist] Blinky To Bootloader: Bare Metal Programming Series (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ)
 - [[EN: Video Playlist] RISC-V CPU in TypeScript (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH)
+- [[EN: Text] Architecture of Console (Rodrigo Copetti)](https://www.copetti.org/writings/consoles)
 
 ## Emulator
 

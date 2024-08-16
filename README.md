@@ -114,4 +114,14 @@
 
 ## Microsoft's Game Console
 
+### Xbox
+
+### Xbox 360
+
+### Xbox One
+
+### Xbox Series S
+
+### Xbox Series X
+
 ## Other Game Console

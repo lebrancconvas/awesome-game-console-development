@@ -112,6 +112,16 @@
 
 ## Sega's Game Console
 
+### Sega MegaDrive / Sega Genesis
+
+### Sega GameGear
+
+### Sega Pico
+
+### Sega Saturn
+
+### Sega Dreamcast
+
 ## Microsoft's Game Console
 
 ### Xbox

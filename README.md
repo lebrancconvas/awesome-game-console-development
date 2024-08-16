@@ -78,6 +78,8 @@
 
 ### Nintendo 64
 
+- [[EN] Awesome N64 Development](https://github.com/command-tab/awesome-n64-development)
+
 ### Nintendo DS (NDS)
 
 - [[EN] Awesome DS Development](https://github.com/asiekierka/awesome-dsdev)

@@ -24,6 +24,8 @@
 
 ### Nintendo DS (NDS)
 
+- [Nintendo DS Homebrew Development](https://github.com/jdriselvato/NDS-Homebrew-Development)
+
 ### Nintendo 3DS (3DS)
 
 ### Wii

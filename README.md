@@ -8,7 +8,7 @@
 - [[EN: Video Playlist] C Programming and Data Structures (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 
 ### C++
-- [[EN: Video Playlist] C++ Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS)
+- [[EN: Video Playlist] C++ Programming (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS)
 
 ## Hardware / Electronic / Computer Architecture
 

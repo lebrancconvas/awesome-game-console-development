@@ -86,6 +86,8 @@
 
 ### Nintendo 3DS (3DS)
 
+- [[EN] Awesome Nintendo 3DS](https://github.com/kuragehimekurara1/Awesome-Nintendo-3DS)
+
 ### Wii
 
 ### Wii U

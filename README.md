@@ -92,6 +92,8 @@
 
 ### Sony PlayStation 2 (PS2)
 
+[[EN] Awesome Open PlayStation 2 Projects](https://github.com/terremoth/awesome-ps2)
+
 ### Sony PlayStation 3 (PS3)
 
 ### Sony PlayStation 4 (PS4)
@@ -99,6 +101,8 @@
 ### Sony PlayStation 5 (PS5)
 
 ### Sony PlayStation Portable (PSP)
+
+- [[EN] Awesome PSP](https://github.com/normanbon/awesome-psp)
 
 ### Sony PlayStation Vita (PS Vita)
 

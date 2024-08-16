@@ -116,6 +116,8 @@
 
 ### Sega Genesis / Sega MegaDrive
 
+- [[EN: Video Playlist] Sega Genesis & Mega Drive Game Dev Beginners Tutorial Series (SGDK) (Pigsy's Retro Game Dev Tutorials)](https://www.youtube.com/playlist?list=PL1xqkpO_SvY2_rSwHTBIBxXMqmek--GAb)
+
 ### Sega GameGear
 
 ### Sega Pico

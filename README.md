@@ -76,6 +76,8 @@
 
 - [[EN] Awesome GameCube Development](https://gamecube.dev/) [(Github)](https://github.com/command-tab/awesome-gamecube-development)
 
+### Nintendo 64
+
 ### Nintendo DS (NDS)
 
 - [Nintendo DS Homebrew Development](https://github.com/jdriselvato/NDS-Homebrew-Development)

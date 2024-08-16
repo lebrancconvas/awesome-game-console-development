@@ -12,6 +12,7 @@
 
 - [[EN: Video Playlist] C Programming and Data Structures (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 - [[EN: Video] Learn C Programming and OOP with Dr. Chuck [feat. classic book by Kernighan and Ritchie] (freeCodeCamp)](https://www.youtube.com/watch?v=PaPN51Mm5qQ)
+- [[EN: Video] Dr. Chuck reads C Programming (the classic book by Kernigan and Ritchie) (freeCodeCamp)](https://www.youtube.com/watch?v=j-_s8f5K30I)
 
 ### C++
 

@@ -15,6 +15,7 @@
 ### C++
 
 - [[EN: Video Playlist] C++ Programming (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS)
+- [[EN: Video Playlist] C++ (The Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
 ### TypeScript
 

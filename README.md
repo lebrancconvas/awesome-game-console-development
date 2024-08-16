@@ -1,5 +1,7 @@
 # Awesome Game Console Development
 
+## Hardware / Electronic / Computer Architecture
+
 ## Nintendo's Game Console
 
 ### Famicom (FC) / Nintendo Entertainment System (NES)
@@ -8,9 +10,15 @@
 
 ### Game Boy (GB)
 
+- [Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
+
 ### Game Boy Color (GBC / CGB)
 
+- [Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
+
 ### Game Boy Advance (GBA)
+
+- [Awesome Game Boy Advance Development](https://github.com/gbadev-org/awesome-gbadev)
 
 ### GameCube
 

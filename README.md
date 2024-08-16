@@ -31,17 +31,19 @@
 
 ### Game Boy (GB)
 
-- [Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
+- [[EN] Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
 
 ### Game Boy Color (GBC / CGB)
 
-- [Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
+- [[EN] Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
 
 ### Game Boy Advance (GBA)
 
-- [Awesome Game Boy Advance Development](https://github.com/gbadev-org/awesome-gbadev)
+- [[EN] Awesome Game Boy Advance Development](https://github.com/gbadev-org/awesome-gbadev)
 
 ### GameCube
+
+- [[EN] Awesome GameCube Development](https://gamecube.dev/) [(Github)](https://github.com/command-tab/awesome-gamecube-development)
 
 ### Nintendo DS (NDS)
 

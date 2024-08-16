@@ -65,6 +65,7 @@
 
 - [[EN] gbdev.io](https://gbdev.io/)
 - [[EN] Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
+- [[EN] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) [(JSON)](https://gbdev.io/gb-opcodes/Opcodes.json)
 
 ### Game Boy Advance (GBA)
 

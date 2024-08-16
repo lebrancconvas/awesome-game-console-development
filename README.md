@@ -90,6 +90,8 @@
 
 ### Sony PlayStation 1 (PS1 / PSX)
 
+- [[EN] Awesome PlayStation Classic](https://github.com/WillemRB/awesome-playstation-classic)
+
 ### Sony PlayStation 2 (PS2)
 
 - [[EN] Awesome Open PlayStation 2 Projects](https://github.com/terremoth/awesome-ps2)

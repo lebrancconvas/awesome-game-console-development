@@ -112,7 +112,7 @@
 
 ## Sega's Game Console
 
-### Sega MegaDrive / Sega Genesis
+### Sega Genesis / Sega MegaDrive
 
 ### Sega GameGear
 

@@ -80,7 +80,8 @@
 
 ### Nintendo DS (NDS)
 
-- [Nintendo DS Homebrew Development](https://github.com/jdriselvato/NDS-Homebrew-Development)
+- [[EN] Nintendo DS Homebrew Development](https://github.com/jdriselvato/NDS-Homebrew-Development)
+- [[EN] Awesome DS Development](https://github.com/asiekierka/awesome-dsdev)
 
 ### Nintendo 3DS (3DS)
 

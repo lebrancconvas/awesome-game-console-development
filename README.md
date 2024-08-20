@@ -53,16 +53,17 @@
 
 ## Emulator
 
-- [[EN] Awesome Emulator (Github: DerekTurtleRoe)](https://github.com/DerekTurtleRoe/awesome-emulators)
-- [[EN] Awesome Open Source Emulators (Github: alnacle)](https://github.com/alnacle/awesome-emulators)
-- [[EN] Awesome Portablizing (Github: mackieks)](https://github.com/mackieks/awesome-portablizing)
+- [[EN: Github] Awesome Emulator (DerekTurtleRoe)](https://github.com/DerekTurtleRoe/awesome-emulators)
+- [[EN: Github] Awesome Open Source Emulators (alnacle)](https://github.com/alnacle/awesome-emulators)
+- [[EN: Github] Awesome Emulators & Simulators (mcicolella)](https://github.com/mcicolella/awesome-emulators-simulators)
+- [[EN: Github] Awesome Portablizing (mackieks)](https://github.com/mackieks/awesome-portablizing)
 
 ## [Nintendo](https://en.wikipedia.org/wiki/Nintendo)'s Game Console
 
 ### [Family Computer (Famicom: FC) / Nintendo Entertainment System (NES)](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
 
-- [[EN] NES Development](https://github.com/denisenepraunig/nes-development)
-- [[EN] NES Starter Kit](https://github.com/igwgames/nes-starter-kit)
+- [[EN: Github] NES Development (denisenepraunig)](https://github.com/denisenepraunig/nes-development)
+- [[EN: Github] NES Starter Kit (igwgames)](https://github.com/igwgames/nes-starter-kit)
 - [[EN] How to Program NES Game in C](https://nesdoug.com/)
 
 ### [Super Family Computer (Super Famicom: SFC) / Super Nintendo Entertainment System (SNES)](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)
@@ -72,40 +73,40 @@
 ### [Game Boy (GB)](https://en.wikipedia.org/wiki/Game_Boy)
 
 - [[EN] gbdev.io](https://gbdev.io/)
-- [[EN] Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
+- [[EN: Github] Awesome Game Boy Development (gbdev)](https://github.com/gbdev/awesome-gbdev)
 - [[EN] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) ([JSON](https://gbdev.io/gb-opcodes/Opcodes.json))
 
 ### [Game Boy Color (GBC / CGB)](https://en.wikipedia.org/wiki/Game_Boy_Color)
 
 - [[EN] gbdev.io](https://gbdev.io/)
-- [[EN] Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
+- [[EN: Github] Awesome Game Boy Development (gbdev)](https://github.com/gbdev/awesome-gbdev)
 - [[EN] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) ([JSON](https://gbdev.io/gb-opcodes/Opcodes.json))
 
 ### [Game Boy Advance (GBA)](https://en.wikipedia.org/wiki/Game_Boy_Advance)
 
 - [[EN] gbadev.net](https://gbadev.net/)
-- [[EN] Awesome Game Boy Advance Development](https://github.com/gbadev-org/awesome-gbadev)
+- [[EN: Github] Awesome Game Boy Advance Development (gbadev-org)](https://github.com/gbadev-org/awesome-gbadev)
 
 ### [GameCube (GC)](https://en.wikipedia.org/wiki/GameCube)
 
-- [[EN] Awesome GameCube Development](https://gamecube.dev/) ([Github](https://github.com/command-tab/awesome-gamecube-development))
+- [[EN] Awesome GameCube Development](https://gamecube.dev/) ([Github (command-tab)](https://github.com/command-tab/awesome-gamecube-development))
 
 ### [Nintendo 64 (N64)](https://en.wikipedia.org/wiki/Nintendo_64)
 
 - [[Github Topic] nintendo64](https://github.com/topics/nintendo64)
-- [[EN] Awesome N64 Development](https://github.com/command-tab/awesome-n64-development)
+- [[EN: Github] Awesome N64 Development (command-tab)](https://github.com/command-tab/awesome-n64-development)
 
 ### [Nintendo DS (NDS)](https://en.wikipedia.org/wiki/Nintendo_DS)
 
 - [[Github Topic] nintendo-ds](https://github.com/topics/nintendo-ds)
-- [[EN] Awesome DS Development](https://github.com/asiekierka/awesome-dsdev)
-- [[EN] Awesome NDS](https://github.com/ninjaraven/awesome-nds)
-- [[EN] Nintendo DS Homebrew Development](https://github.com/jdriselvato/NDS-Homebrew-Development)
+- [[EN: Github] Awesome DS Development (asiekierka)](https://github.com/asiekierka/awesome-dsdev)
+- [[EN: Github] Awesome NDS (ninjaraven)](https://github.com/ninjaraven/awesome-nds)
+- [[EN: Github] Nintendo DS Homebrew Development (jdriselvato)](https://github.com/jdriselvato/NDS-Homebrew-Development)
 
 ### [Nintendo 3DS (3DS)](https://en.wikipedia.org/wiki/Nintendo_3DS)
 
 - [[Github Topic] nintendo-3ds](https://github.com/topics/nintendo-3ds)
-- [[EN] Awesome Nintendo 3DS](https://github.com/kuragehimekurara1/Awesome-Nintendo-3DS)
+- [[EN: Github] Awesome Nintendo 3DS (kuragehimekurara1)](https://github.com/kuragehimekurara1/Awesome-Nintendo-3DS)
 
 ### [Wii](https://en.wikipedia.org/wiki/Wii)
 
@@ -119,11 +120,11 @@
 
 ### [Sony PlayStation 1 (PS)](https://en.wikipedia.org/wiki/PlayStation)
 
-- [[EN] Awesome PlayStation Classic](https://github.com/WillemRB/awesome-playstation-classic)
+- [[EN: Github] Awesome PlayStation Classic (WillemRB)](https://github.com/WillemRB/awesome-playstation-classic)
 
 ### [Sony PlayStation 2 (PS2)](https://en.wikipedia.org/wiki/PlayStation_2)
 
-- [[EN] Awesome Open PlayStation 2 Projects](https://github.com/terremoth/awesome-ps2)
+- [[EN: Github] Awesome Open PlayStation 2 Projects (terremoth)](https://github.com/terremoth/awesome-ps2)
 - [[EN: Video] PlayStation 2 - Behind The Architecture of One of The Greatest Consoles of All Time! (GamingBolt)](https://www.youtube.com/watch?v=l6N4AbTrfFY)
 
 ### [Sony PlayStation 3 (PS3)](https://en.wikipedia.org/wiki/PlayStation_3)
@@ -138,11 +139,11 @@
 
 ### [Sony PlayStation Portable (PSP)](https://en.wikipedia.org/wiki/PlayStation_Portable)
 
-- [[EN] Awesome PSP](https://github.com/normanbon/awesome-psp)
+- [[EN: Github] Awesome PSP (normanbon)](https://github.com/normanbon/awesome-psp)
 
 ### [Sony PlayStation Vita (PS Vita)](https://en.wikipedia.org/wiki/PlayStation_Vita)
 
-- [[EN] Awesome PlayStation Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita)
+- [[EN: Github] Awesome PlayStation Vita (MuxaJlbl4)](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita)
 
 ## [Sega](https://en.wikipedia.org/wiki/Sega)'s Game Console
 
@@ -158,7 +159,7 @@
 
 ### [Sega Dreamcast](https://en.wikipedia.org/wiki/Dreamcast)
 
-- [[EN] Awesome Dreamcast (Github: dreamcastdevs)](https://github.com/dreamcastdevs/awesome-dreamcast)
+- [[EN: Github] Awesome Dreamcast (dreamcastdevs)](https://github.com/dreamcastdevs/awesome-dreamcast)
 
 ## [Microsoft](https://en.wikipedia.org/wiki/Microsoft)'s Game Console
 
@@ -178,10 +179,10 @@
 
 ### [SNK Neo Geo](https://en.wikipedia.org/wiki/Neo_Geo_(system))
 
-- [[EN] ngdevkit - Open Source Development for Neo Geo (Github: dciabrin)](https://github.com/dciabrin/ngdevkit)
+- [[EN: Github] ngdevkit - Open Source Development for Neo Geo (dciabrin)](https://github.com/dciabrin/ngdevkit)
 
 ## Video Game
 
 ### Video Game Technology
 
-- [[EN] Awesome Video Game Technology Analysis (Github: OTFCG)](https://github.com/OTFCG/Awesome-Game-Analysis)
+- [[EN: Github] Awesome Video Game Technology Analysis (OTFCG)](https://github.com/OTFCG/Awesome-Game-Analysis)

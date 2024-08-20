@@ -46,6 +46,8 @@
 - [[EN: Video Playlist] Blinky To Bootloader: Bare Metal Programming Series (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ)
 - [[EN: Video Playlist] RISC-V CPU in TypeScript (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH)
 - [[EN: Video] CRAFTING A CPU TO RUN PROGRAMS (Core Dumped)](https://www.youtube.com/watch?v=GYlNoAMBY6o)
+- [[EN: Video] HOW TRANSISTORS RUN CODE? (Core Dumped)](https://www.youtube.com/watch?v=HjneAhCy2N4)
+- [[EN: Video] HOW TRANSISTORS REMEMBER DATA(Core Dumped)](https://www.youtube.com/watch?v=rM9BjciBLmg)
 - [[EN: Text] Architecture of Console (Rodrigo Copetti)](https://www.copetti.org/writings/consoles)
 
 ## Emulator

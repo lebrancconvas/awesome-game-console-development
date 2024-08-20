@@ -4,12 +4,17 @@
 
 ### Assembly
 
+- [[EN: Video Playlist] [CS] Lang: Assembly (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKHnBzHf-ur7fOugVkUdgLnd)
+- [[EN: Video Playlist] [CS] Lang: Assembly (ARM) (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKFMRPpRZoE8SSUWHgFV1BSI)
+- [[EN: Video Playlist] [CS] lang: Assembly (x86) (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKFxSw0CQ1KCAFDDZ3eu24Vw)
+- [[EN: Video Playlist] [CS] Lang: Assembly (RISC-V) (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKH1_HO3ZqtXOrrdz8UBanah)
 - [[EN: Video] Assembly Language in 100 Seconds (Fireship)](https://www.youtube.com/watch?v=4gwYkEK0gOk)
 - [[EN: Video] you can become a GIGACHAD assembly programmer in 10 minutes (try it RIGHT NOW) (Low Level Learning)](https://www.youtube.com/watch?v=6S5KRJv-7RU)
 - [[EN: Video] Assembly Language Tutorial (Derek Banas)](https://www.youtube.com/watch?v=ViNnfoE56V8)
 
 ### C
 
+- [[EN: Video Playlist] [CS] Lang: C (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKGEwqlWYt-Zd04z7zj6SdeG)
 - [[EN: Video Playlist] C Programming and Data Structures (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 - [[EN: Video] Learn C Programming and OOP with Dr. Chuck [feat. classic book by Kernighan and Ritchie] (freeCodeCamp)](https://www.youtube.com/watch?v=PaPN51Mm5qQ)
 - [[EN: Video] Dr. Chuck reads C Programming (the classic book by Kernigan and Ritchie) (freeCodeCamp)](https://www.youtube.com/watch?v=j-_s8f5K30I)

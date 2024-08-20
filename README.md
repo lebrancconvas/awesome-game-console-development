@@ -92,21 +92,28 @@
 
 ### [Nintendo 64 (N64)](https://en.wikipedia.org/wiki/Nintendo_64)
 
+- [[Github Topic] nintendo64](https://github.com/topics/nintendo64)
 - [[EN] Awesome N64 Development](https://github.com/command-tab/awesome-n64-development)
 
 ### [Nintendo DS (NDS)](https://en.wikipedia.org/wiki/Nintendo_DS)
 
+- [[Github Topic] nintendo-ds](https://github.com/topics/nintendo-ds)
 - [[EN] Awesome DS Development](https://github.com/asiekierka/awesome-dsdev)
 - [[EN] Awesome NDS](https://github.com/ninjaraven/awesome-nds)
 - [[EN] Nintendo DS Homebrew Development](https://github.com/jdriselvato/NDS-Homebrew-Development)
 
 ### [Nintendo 3DS (3DS)](https://en.wikipedia.org/wiki/Nintendo_3DS)
 
+- [[Github Topic] nintendo-3ds](https://github.com/topics/nintendo-3ds)
 - [[EN] Awesome Nintendo 3DS](https://github.com/kuragehimekurara1/Awesome-Nintendo-3DS)
 
 ### [Wii](https://en.wikipedia.org/wiki/Wii)
 
 ### [Wii U](https://en.wikipedia.org/wiki/Wii_U)
+
+### [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch)
+
+- [[Github Topic] nintendo-switch](https://github.com/topics/nintendo-switch)
 
 ## [Sony](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment)'s Game Console
 
@@ -156,6 +163,8 @@
 ## [Microsoft](https://en.wikipedia.org/wiki/Microsoft)'s Game Console
 
 ### [Microsoft Xbox](https://en.wikipedia.org/wiki/Xbox_(console))
+
+- [[Github Topic] xbox](https://github.com/topics/xbox)
 
 ### [Microsoft Xbox 360](https://en.wikipedia.org/wiki/Xbox_360)
 

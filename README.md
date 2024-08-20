@@ -47,7 +47,7 @@
 - [[EN] Awesome Open Source Emulators (Github: alnacle)](https://github.com/alnacle/awesome-emulators)
 - [[EN] Awesome Portablizing (Github: mackieks)](https://github.com/mackieks/awesome-portablizing)
 
-## Nintendo's Game Console
+## [Nintendo](https://en.wikipedia.org/wiki/Nintendo)'s Game Console
 
 ### [Family Computer (Famicom: FC) / Nintendo Entertainment System (NES)](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
 
@@ -98,7 +98,7 @@
 
 ### [Wii U](https://en.wikipedia.org/wiki/Wii_U)
 
-## Sony's Game Console
+## [Sony](https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment)'s Game Console
 
 ### [Sony PlayStation 1 (PS)](https://en.wikipedia.org/wiki/PlayStation)
 
@@ -122,7 +122,7 @@
 
 - [[EN] Awesome PlayStation Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita)
 
-## Sega's Game Console
+## [Sega](https://en.wikipedia.org/wiki/Sega)'s Game Console
 
 ### Sega Genesis / Sega MegaDrive
 
@@ -138,16 +138,16 @@
 
 - [[EN] Awesome Dreamcast (Github: dreamcastdevs)](https://github.com/dreamcastdevs/awesome-dreamcast)
 
-## Microsoft's Game Console
+## [Microsoft](https://en.wikipedia.org/wiki/Microsoft)'s Game Console
 
-### Xbox
+### Microsoft Xbox
 
-### Xbox 360
+### Microsoft Xbox 360
 
-### Xbox One
+### Microsoft Xbox One
 
-### Xbox Series S
+### Microsoft Xbox Series S
 
-### Xbox Series X
+### Microsoft Xbox Series X
 
 ## Other Game Console

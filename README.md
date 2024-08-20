@@ -76,11 +76,11 @@
 - [[EN] gbadev.net](https://gbadev.net/)
 - [[EN] Awesome Game Boy Advance Development](https://github.com/gbadev-org/awesome-gbadev)
 
-### GameCube
+### [GameCube](https://en.wikipedia.org/wiki/GameCube)
 
 - [[EN] Awesome GameCube Development](https://gamecube.dev/) [(Github)](https://github.com/command-tab/awesome-gamecube-development)
 
-### Nintendo 64
+### [Nintendo 64 (N64)](https://en.wikipedia.org/wiki/Nintendo_64)
 
 - [[EN] Awesome N64 Development](https://github.com/command-tab/awesome-n64-development)
 
@@ -135,6 +135,8 @@
 ### Sega Saturn
 
 ### Sega Dreamcast
+
+- [[EN] Awesome Dreamcast (Github: dreamcastdevs)](https://github.com/dreamcastdevs/awesome-dreamcast)
 
 ## Microsoft's Game Console
 

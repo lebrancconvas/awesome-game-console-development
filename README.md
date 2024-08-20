@@ -31,7 +31,7 @@
 - [[EN: Video] I wrote a GameBoy game in TypeScript (And it runs on real hardware!) (Low Byte Productions)](https://www.youtube.com/watch?v=TIlx5nBnx-o)
 - [[EN: Video] TypeScript For Embedded Programming?? (ThePrimeTime)](https://www.youtube.com/watch?v=5RcfjvQl75w&pp=ygUUVHlwZVNjcmlwdCBIYXJkd2FyZSA%3D)
 
-## Hardware / Electronic / Computer Architecture
+## Hardware / Electronic / Computer Architecture / Low Level Concepts
 
 - [[EN: Video Playlist] Analog Electronics (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS)
 - [[EN: Video Playlist] Digital Electronics (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
@@ -48,6 +48,7 @@
 - [[EN: Video] CRAFTING A CPU TO RUN PROGRAMS (Core Dumped)](https://www.youtube.com/watch?v=GYlNoAMBY6o)
 - [[EN: Video] HOW TRANSISTORS RUN CODE? (Core Dumped)](https://www.youtube.com/watch?v=HjneAhCy2N4)
 - [[EN: Video] HOW TRANSISTORS REMEMBER DATA(Core Dumped)](https://www.youtube.com/watch?v=rM9BjciBLmg)
+- [[EN: Video] The size of your variables matters (Core Dumped)](https://www.youtube.com/watch?v=hwyRnHA54lI)
 - [[EN: Text] Architecture of Console (Rodrigo Copetti)](https://www.copetti.org/writings/consoles)
 
 ## Emulator

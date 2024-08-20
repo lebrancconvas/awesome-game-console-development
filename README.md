@@ -107,6 +107,7 @@
 ### [Sony PlayStation 2 (PS2)](https://en.wikipedia.org/wiki/PlayStation_2)
 
 - [[EN] Awesome Open PlayStation 2 Projects](https://github.com/terremoth/awesome-ps2)
+- [[EN: Video] PlayStation 2 - Behind The Architecture of One of The Greatest Consoles of All Time! (GamingBolt)](https://www.youtube.com/watch?v=l6N4AbTrfFY)
 
 ### [Sony PlayStation 3 (PS3)](https://en.wikipedia.org/wiki/PlayStation_3)
 
@@ -157,6 +158,8 @@
 ## Other Game Console
 
 ### [SNK Neo Geo](https://en.wikipedia.org/wiki/Neo_Geo_(system))
+
+- [[EN] ngdevkit - Open Source Development for Neo Geo (Github: dciabrin)](https://github.com/dciabrin/ngdevkit)
 
 ## Video Game
 

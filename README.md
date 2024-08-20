@@ -100,25 +100,25 @@
 
 ## Sony's Game Console
 
-### Sony PlayStation 1 (PS1 / PSX)
+### [Sony PlayStation 1 (PS)](https://en.wikipedia.org/wiki/PlayStation)
 
 - [[EN] Awesome PlayStation Classic](https://github.com/WillemRB/awesome-playstation-classic)
 
-### Sony PlayStation 2 (PS2)
+### [Sony PlayStation 2 (PS2)](https://en.wikipedia.org/wiki/PlayStation_2)
 
 - [[EN] Awesome Open PlayStation 2 Projects](https://github.com/terremoth/awesome-ps2)
 
-### Sony PlayStation 3 (PS3)
+### [Sony PlayStation 3 (PS3)](https://en.wikipedia.org/wiki/PlayStation_3)
 
-### Sony PlayStation 4 (PS4)
+### [Sony PlayStation 4 (PS4)](https://en.wikipedia.org/wiki/PlayStation_4)
 
-### Sony PlayStation 5 (PS5)
+### [Sony PlayStation 5 (PS5)](https://en.wikipedia.org/wiki/PlayStation_5)
 
-### Sony PlayStation Portable (PSP)
+### [Sony PlayStation Portable (PSP)](https://en.wikipedia.org/wiki/PlayStation_Portable)
 
 - [[EN] Awesome PSP](https://github.com/normanbon/awesome-psp)
 
-### Sony PlayStation Vita (PS Vita)
+### [Sony PlayStation Vita (PS Vita)](https://en.wikipedia.org/wiki/PlayStation_Vita)
 
 - [[EN] Awesome PlayStation Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita)
 

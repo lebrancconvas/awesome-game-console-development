@@ -151,3 +151,7 @@
 ### [Microsoft Xbox Series X](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S)
 
 ## Other Game Console
+
+## Video Game
+
+- [[EN] Awesome Video Game Technology Analysis (Github: OTFCG)](https://github.com/OTFCG/Awesome-Game-Analysis)

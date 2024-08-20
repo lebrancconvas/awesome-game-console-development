@@ -73,13 +73,13 @@
 
 - [[EN] gbdev.io](https://gbdev.io/)
 - [[EN] Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
-- [[EN] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) [(JSON)](https://gbdev.io/gb-opcodes/Opcodes.json)
+- [[EN] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) ([JSON](https://gbdev.io/gb-opcodes/Opcodes.json))
 
 ### [Game Boy Color (GBC / CGB)](https://en.wikipedia.org/wiki/Game_Boy_Color)
 
 - [[EN] gbdev.io](https://gbdev.io/)
 - [[EN] Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
-- [[EN] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) [(JSON)](https://gbdev.io/gb-opcodes/Opcodes.json)
+- [[EN] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) ([JSON](https://gbdev.io/gb-opcodes/Opcodes.json))
 
 ### [Game Boy Advance (GBA)](https://en.wikipedia.org/wiki/Game_Boy_Advance)
 
@@ -88,7 +88,7 @@
 
 ### [GameCube (GC)](https://en.wikipedia.org/wiki/GameCube)
 
-- [[EN] Awesome GameCube Development](https://gamecube.dev/) [(Github)](https://github.com/command-tab/awesome-gamecube-development)
+- [[EN] Awesome GameCube Development](https://gamecube.dev/) ([Github](https://github.com/command-tab/awesome-gamecube-development))
 
 ### [Nintendo 64 (N64)](https://en.wikipedia.org/wiki/Nintendo_64)
 

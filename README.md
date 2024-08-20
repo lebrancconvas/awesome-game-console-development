@@ -29,7 +29,7 @@
 - [[EN: Video Playlist] RISC-V CPU in TypeScript (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH)
 - [[EN: Video Playlist] FPGA and gateway-ts (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW7oI7nhYLic8qU6NX3k_EOz)
 - [[EN: Video] I wrote a GameBoy game in TypeScript (And it runs on real hardware!) (Low Byte Productions)](https://www.youtube.com/watch?v=TIlx5nBnx-o)
-- [[EN: Video] TypeScript fFor Embedded Programming?? (ThePrimeTime)](https://www.youtube.com/watch?v=5RcfjvQl75w&pp=ygUUVHlwZVNjcmlwdCBIYXJkd2FyZSA%3D)
+- [[EN: Video] TypeScript For Embedded Programming?? (ThePrimeTime)](https://www.youtube.com/watch?v=5RcfjvQl75w&pp=ygUUVHlwZVNjcmlwdCBIYXJkd2FyZSA%3D)
 
 ## Hardware / Electronic / Computer Architecture
 
@@ -45,6 +45,7 @@
 - [[EN: Video Playlist] Source Dive (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW4Mw8mgvP87Zk33LRcKA9bl)
 - [[EN: Video Playlist] Blinky To Bootloader: Bare Metal Programming Series (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW7HaCrRydOnxcy8QmW0SNdQ)
 - [[EN: Video Playlist] RISC-V CPU in TypeScript (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH)
+- [[EN: Video] CRAFTING A CPU TO RUN PROGRAMS (Core Dumped)](https://www.youtube.com/watch?v=GYlNoAMBY6o)
 - [[EN: Text] Architecture of Console (Rodrigo Copetti)](https://www.copetti.org/writings/consoles)
 
 ## Emulator

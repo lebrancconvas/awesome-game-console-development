@@ -124,17 +124,17 @@
 
 ## [Sega](https://en.wikipedia.org/wiki/Sega)'s Game Console
 
-### Sega Genesis / Sega MegaDrive
+### [Sega Genesis / Sega MegaDrive](https://en.wikipedia.org/wiki/Sega_Genesis)
 
 - [[EN: Video Playlist] Sega Genesis & Mega Drive Game Dev Beginners Tutorial Series (SGDK) (Pigsy's Retro Game Dev Tutorials)](https://www.youtube.com/playlist?list=PL1xqkpO_SvY2_rSwHTBIBxXMqmek--GAb)
 
-### Sega GameGear
+### [Sega GameGear](https://en.wikipedia.org/wiki/Game_Gear)
 
-### Sega Pico
+### [Sega Pico](https://en.wikipedia.org/wiki/Sega_Pico)
 
-### Sega Saturn
+### [Sega Saturn](https://en.wikipedia.org/wiki/Sega_Saturn)
 
-### Sega Dreamcast
+### [Sega Dreamcast](https://en.wikipedia.org/wiki/Dreamcast)
 
 - [[EN] Awesome Dreamcast (Github: dreamcastdevs)](https://github.com/dreamcastdevs/awesome-dreamcast)
 

@@ -112,7 +112,11 @@
 
 ### [Sony PlayStation 4 (PS4)](https://en.wikipedia.org/wiki/PlayStation_4)
 
+- [[EN: Video] PlayStation 4 Exclusive: Mark Cerny Breaks Down the Hardware-Gadget Lab-WIRED (WIRED)](https://www.youtube.com/watch?v=xiI7FFnOrh8)
+
 ### [Sony PlayStation 5 (PS5)](https://en.wikipedia.org/wiki/PlayStation_5)
+
+- [[EN: Video] How PlayStation 5 Was Built (feat. Mark Cerny) | WIRED (WIRED)](https://www.youtube.com/watch?v=cJkx-OLgLzo)
 
 ### [Sony PlayStation Portable (PSP)](https://en.wikipedia.org/wiki/PlayStation_Portable)
 

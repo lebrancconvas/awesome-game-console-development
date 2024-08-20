@@ -49,34 +49,34 @@
 
 ## Nintendo's Game Console
 
-### Famicom (FC) / Nintendo Entertainment System (NES)
+### [Family Computer (Famicom: FC) / Nintendo Entertainment System (NES)](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
 
 - [[EN] NES Development](https://github.com/denisenepraunig/nes-development)
 - [[EN] NES Starter Kit](https://github.com/igwgames/nes-starter-kit)
 - [[EN] How to Program NES Game in C](https://nesdoug.com/)
 
-### Super Famicom (SFC) / Super Nintendo Entertainment System (SNES)
+### [Super Family Computer (Super Famicom: SFC) / Super Nintendo Entertainment System (SNES)](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)
 
 - [[EN] Super Nintendo Architecture (Rodrigo Copetti)](https://www.copetti.org/writings/consoles/super-nintendo/)
 
-### Game Boy (GB)
+### [Game Boy (GB)](https://en.wikipedia.org/wiki/Game_Boy)
 
 - [[EN] gbdev.io](https://gbdev.io/)
 - [[EN] Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
 - [[EN] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) [(JSON)](https://gbdev.io/gb-opcodes/Opcodes.json)
 
-### Game Boy Color (GBC / CGB)
+### [Game Boy Color (GBC / CGB)](https://en.wikipedia.org/wiki/Game_Boy_Color)
 
 - [[EN] gbdev.io](https://gbdev.io/)
 - [[EN] Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
 - [[EN] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) [(JSON)](https://gbdev.io/gb-opcodes/Opcodes.json)
 
-### Game Boy Advance (GBA)
+### [Game Boy Advance (GBA)](https://en.wikipedia.org/wiki/Game_Boy_Advance)
 
 - [[EN] gbadev.net](https://gbadev.net/)
 - [[EN] Awesome Game Boy Advance Development](https://github.com/gbadev-org/awesome-gbadev)
 
-### [GameCube](https://en.wikipedia.org/wiki/GameCube)
+### [GameCube (GC)](https://en.wikipedia.org/wiki/GameCube)
 
 - [[EN] Awesome GameCube Development](https://gamecube.dev/) [(Github)](https://github.com/command-tab/awesome-gamecube-development)
 
@@ -84,19 +84,19 @@
 
 - [[EN] Awesome N64 Development](https://github.com/command-tab/awesome-n64-development)
 
-### Nintendo DS (NDS)
+### [Nintendo DS (NDS)](https://en.wikipedia.org/wiki/Nintendo_DS)
 
 - [[EN] Awesome DS Development](https://github.com/asiekierka/awesome-dsdev)
 - [[EN] Awesome NDS](https://github.com/ninjaraven/awesome-nds)
 - [[EN] Nintendo DS Homebrew Development](https://github.com/jdriselvato/NDS-Homebrew-Development)
 
-### Nintendo 3DS (3DS)
+### [Nintendo 3DS (3DS)](https://en.wikipedia.org/wiki/Nintendo_3DS)
 
 - [[EN] Awesome Nintendo 3DS](https://github.com/kuragehimekurara1/Awesome-Nintendo-3DS)
 
-### Wii
+### [Wii](https://en.wikipedia.org/wiki/Wii)
 
-### Wii U
+### [Wii U](https://en.wikipedia.org/wiki/Wii_U)
 
 ## Sony's Game Console
 

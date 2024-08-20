@@ -154,4 +154,6 @@
 
 ## Video Game
 
+### Video Game Technology
+
 - [[EN] Awesome Video Game Technology Analysis (Github: OTFCG)](https://github.com/OTFCG/Awesome-Game-Analysis)

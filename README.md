@@ -140,14 +140,14 @@
 
 ## [Microsoft](https://en.wikipedia.org/wiki/Microsoft)'s Game Console
 
-### Microsoft Xbox
+### [Microsoft Xbox](https://en.wikipedia.org/wiki/Xbox_(console))
 
-### Microsoft Xbox 360
+### [Microsoft Xbox 360](https://en.wikipedia.org/wiki/Xbox_360)
 
-### Microsoft Xbox One
+### [Microsoft Xbox One](https://en.wikipedia.org/wiki/Xbox_One)
 
-### Microsoft Xbox Series S
+### [Microsoft Xbox Series S](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S)
 
-### Microsoft Xbox Series X
+### [Microsoft Xbox Series X](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S)
 
 ## Other Game Console

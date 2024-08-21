@@ -146,34 +146,47 @@
 ### [Sony PlayStation 1 (PS)](https://en.wikipedia.org/wiki/PlayStation)
 
 - [[Github Topic] ps1](https://github.com/topics/ps1)
+- [[Github Topic] playstation1](https://github.com/topics/playstation1)
+- [[Github Topic] playstaton-1](https://github.com/topics/playstation-1)
 - [[EN: Github] Awesome PlayStation Classic (WillemRB)](https://github.com/WillemRB/awesome-playstation-classic)
 
 ### [Sony PlayStation 2 (PS2)](https://en.wikipedia.org/wiki/PlayStation_2)
 
 - [[Github Topic] ps2](https://github.com/topics/ps2)
+- [[Github Topic] playstation2](https://github.com/topics/playstation2)
+- [[Github Topic] playstaton-2](https://github.com/topics/playstation-2)
 - [[EN: Github] Awesome Open PlayStation 2 Projects (terremoth)](https://github.com/terremoth/awesome-ps2)
 - [[EN: Video] PlayStation 2 - Behind The Architecture of One of The Greatest Consoles of All Time! (GamingBolt)](https://www.youtube.com/watch?v=l6N4AbTrfFY)
 
 ### [Sony PlayStation 3 (PS3)](https://en.wikipedia.org/wiki/PlayStation_3)
 
 - [[Github Topic] ps3](https://github.com/topics/ps3)
+- [[Github Topic] playstation3](https://github.com/topics/playstation3)
+- [[Github Topic] playstaton-3](https://github.com/topics/playstation-3)
   
 ### [Sony PlayStation 4 (PS4)](https://en.wikipedia.org/wiki/PlayStation_4)
 
 - [[Github Topic] ps4](https://github.com/topics/ps4)
+- [[Github Topic] playstation4](https://github.com/topics/playstation4)
+- [[Github Topic] playstaton-4](https://github.com/topics/playstation-4)
 - [[EN: Video] PlayStation 4 Exclusive: Mark Cerny Breaks Down the Hardware-Gadget Lab-WIRED (WIRED)](https://www.youtube.com/watch?v=xiI7FFnOrh8)
 
 ### [Sony PlayStation 5 (PS5)](https://en.wikipedia.org/wiki/PlayStation_5)
 
 - [[Github Topic] ps5](https://github.com/topics/ps5)
+- [[Github Topic] playstation5](https://github.com/topics/playstation5)
+- [[Github Topic] playstaton-5](https://github.com/topics/playstation-5)
 - [[EN: Video] How PlayStation 5 Was Built (feat. Mark Cerny) | WIRED (WIRED)](https://www.youtube.com/watch?v=cJkx-OLgLzo)
 
 ### [Sony PlayStation Portable (PSP)](https://en.wikipedia.org/wiki/PlayStation_Portable)
 
+- [[Github Topic] psp](https://github.com/topics/psp)
 - [[EN: Github] Awesome PSP (normanbon)](https://github.com/normanbon/awesome-psp)
 
 ### [Sony PlayStation Vita (PS Vita)](https://en.wikipedia.org/wiki/PlayStation_Vita)
 
+- [[Github Topic] ps-vita](https://github.com/topics/ps-vita)
+- [[Github Topic] playstation-vita](https://github.com/topics/playstation-vita)
 - [[EN: Github] Awesome PlayStation Vita (MuxaJlbl4)](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita)
 
 ## [Sega](https://en.wikipedia.org/wiki/Sega)'s Game Console
@@ -234,6 +247,8 @@
 
 ### [SNK Neo Geo](https://en.wikipedia.org/wiki/Neo_Geo_(system))
 
+- [[Github Topic] neogeo](https://github.com/topics/neogeo)
+- [[Github Topic] neo-geo](https://github.com/topics/neo-geo)
 - [[EN: Github] ngdevkit - Open Source Development for Neo Geo (dciabrin)](https://github.com/dciabrin/ngdevkit)
 
 ## Video Game

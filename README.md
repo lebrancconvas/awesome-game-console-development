@@ -145,21 +145,27 @@
 
 ### [Sony PlayStation 1 (PS)](https://en.wikipedia.org/wiki/PlayStation)
 
+- [[Github Topic] ps1](https://github.com/topics/ps1)
 - [[EN: Github] Awesome PlayStation Classic (WillemRB)](https://github.com/WillemRB/awesome-playstation-classic)
 
 ### [Sony PlayStation 2 (PS2)](https://en.wikipedia.org/wiki/PlayStation_2)
 
+- [[Github Topic] ps2](https://github.com/topics/ps2)
 - [[EN: Github] Awesome Open PlayStation 2 Projects (terremoth)](https://github.com/terremoth/awesome-ps2)
 - [[EN: Video] PlayStation 2 - Behind The Architecture of One of The Greatest Consoles of All Time! (GamingBolt)](https://www.youtube.com/watch?v=l6N4AbTrfFY)
 
 ### [Sony PlayStation 3 (PS3)](https://en.wikipedia.org/wiki/PlayStation_3)
 
+- [[Github Topic] ps3](https://github.com/topics/ps3)
+  
 ### [Sony PlayStation 4 (PS4)](https://en.wikipedia.org/wiki/PlayStation_4)
 
+- [[Github Topic] ps4](https://github.com/topics/ps4)
 - [[EN: Video] PlayStation 4 Exclusive: Mark Cerny Breaks Down the Hardware-Gadget Lab-WIRED (WIRED)](https://www.youtube.com/watch?v=xiI7FFnOrh8)
 
 ### [Sony PlayStation 5 (PS5)](https://en.wikipedia.org/wiki/PlayStation_5)
 
+- [[Github Topic] ps5](https://github.com/topics/ps5)
 - [[EN: Video] How PlayStation 5 Was Built (feat. Mark Cerny) | WIRED (WIRED)](https://www.youtube.com/watch?v=cJkx-OLgLzo)
 
 ### [Sony PlayStation Portable (PSP)](https://en.wikipedia.org/wiki/PlayStation_Portable)
@@ -218,7 +224,11 @@
 
 ### [Microsoft Xbox Series S](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S)
 
+- [[Github Topic] xbox-series-s](https://github.com/topics/xbox-series-s)
+
 ### [Microsoft Xbox Series X](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S)
+
+- [[Github Topic] xbox-series-x](https://github.com/topics/xbox-series-x)
 
 ## Other Game Console
 

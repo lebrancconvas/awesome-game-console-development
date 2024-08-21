@@ -130,6 +130,8 @@
 
 ### [Wii](https://en.wikipedia.org/wiki/Wii)
 
+- [[Github Topic] wii](https://github.com/topics/wii)
+
 ### [Wii U](https://en.wikipedia.org/wiki/Wii_U)
 
 ### [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch)

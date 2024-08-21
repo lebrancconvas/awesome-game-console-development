@@ -134,6 +134,9 @@
 
 ### [Wii U](https://en.wikipedia.org/wiki/Wii_U)
 
+- [[Github Topic] wiiu](https://github.com/topics/wiiu)
+- [[Github Topic] wii-u](https://github.com/topics/wii-u)
+
 ### [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch)
 
 - [[Github Topic] nintendo-switch](https://github.com/topics/nintendo-switch)

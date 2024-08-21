@@ -194,7 +194,13 @@
 
 ### [Microsoft Xbox 360](https://en.wikipedia.org/wiki/Xbox_360)
 
+- [[Github Topic] xbox360](https://github.com/topics/xbox360)
+- [[Github Topic] xbox-360](https://github.com/topics/xbox-360)
+
 ### [Microsoft Xbox One](https://en.wikipedia.org/wiki/Xbox_One)
+
+- [[Github Topic] xboxone](https://github.com/topics/xboxone)
+- [[Github Topic] xbox-one](https://github.com/topics/xbox-one)
 
 ### [Microsoft Xbox Series S](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S)
 

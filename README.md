@@ -256,6 +256,18 @@
 
 ## Video Game
 
+### Video Game Development
+
+- [[EN: Github] Awesome Learn Gamedev (notpresident35)](https://github.com/notpresident35/awesome-learn-gamedev)
+- [[EN: Github] Awesome GameDev (FronkonGames)](https://github.com/FronkonGames/Awesome-Gamedev)
+- [[EN: Github] Awesome Game Dev (mbrukman)](https://github.com/mbrukman/awesome-game-dev)
+- [[EN: Github] Awesome Gamedev (Calinou)](https://github.com/Calinou/awesome-gamedev)
+- [[EN: Github] Awesome Game Networking (rumaniel)](https://github.com/rumaniel/Awesome-Game-Networking)
+- [[EN: Github] Awesome Game Engine Development (stevinz)](https://github.com/stevinz/awesome-game-engine-dev)
+- [[EN: Github] Awesome Game Engines (ChessMax)](https://github.com/ChessMax/awesome-game-engines)
+- [[EN: Github] Awesome Game Production (vhladiienko)](https://github.com/vhladiienko/awesome-game-production)
+- [[EN: Github] Awesome Gaming List (K3V1991)](https://github.com/K3V1991/Awesome-Gaming-List)
+
 ### Video Game Technology
 
 - [[EN: Github] Awesome Video Game Technology Analysis (OTFCG)](https://github.com/OTFCG/Awesome-Game-Analysis)

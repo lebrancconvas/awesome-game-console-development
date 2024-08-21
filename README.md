@@ -62,12 +62,15 @@
 
 ### [Family Computer (Famicom: FC) / Nintendo Entertainment System (NES)](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
 
+- [[Github Topic] nintendo-entertainment-system](https://github.com/topics/nintendo-entertainment-system)
+- [[Github Topic] nes-emulator](https://github.com/topics/nes-emulator)
 - [[EN: Github] NES Development (denisenepraunig)](https://github.com/denisenepraunig/nes-development)
 - [[EN: Github] NES Starter Kit (igwgames)](https://github.com/igwgames/nes-starter-kit)
 - [[EN] How to Program NES Game in C](https://nesdoug.com/)
 
 ### [Super Family Computer (Super Famicom: SFC) / Super Nintendo Entertainment System (SNES)](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)
 
+- [[Github Topic] snes](https://github.com/topics/snes)
 - [[EN] Super Nintendo Architecture (Rodrigo Copetti)](https://www.copetti.org/writings/consoles/super-nintendo/)
 
 ### [Game Boy (GB)](https://en.wikipedia.org/wiki/Game_Boy)

@@ -77,33 +77,47 @@
 ### [Game Boy (GB)](https://en.wikipedia.org/wiki/Game_Boy)
 
 - [[Github Topic] Game Boy](https://github.com/topics/gameboy)
+- [[Github Topic] game-boy](https://github.com/topics/game-boy)
+- [[Github Topic] gb](https://github.com/topics/gb)
 - [[EN] gbdev.io](https://gbdev.io/)
 - [[EN: Github] Awesome Game Boy Development (gbdev)](https://github.com/gbdev/awesome-gbdev)
 - [[EN] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) ([JSON](https://gbdev.io/gb-opcodes/Opcodes.json))
 
 ### [Game Boy Color (GBC / CGB)](https://en.wikipedia.org/wiki/Game_Boy_Color)
 
+- [[Github Topic] gameboycolor](https://github.com/topics/gameboycolor)
+- [[Github Topic] gameboy-color](https://github.com/topics/gameboy-color)
+- [[Github Topic] gbc](https://github.com/topics/gbc)
+- [[GIthub Topic] cgb](https://github.com/topics/cgb)
 - [[EN] gbdev.io](https://gbdev.io/)
 - [[EN: Github] Awesome Game Boy Development (gbdev)](https://github.com/gbdev/awesome-gbdev)
 - [[EN] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) ([JSON](https://gbdev.io/gb-opcodes/Opcodes.json))
 
 ### [Game Boy Advance (GBA)](https://en.wikipedia.org/wiki/Game_Boy_Advance)
 
+- [[Github Topic] gameboyadvance](https://github.com/topics/gameboyadvance)
+- [[Github Topic] gameboy-advance](https://github.com/topics/gameboy-advance)
+- [[Github Topic] gba](https://github.com/topics/gba)
 - [[EN] gbadev.net](https://gbadev.net/)
 - [[EN: Github] Awesome Game Boy Advance Development (gbadev-org)](https://github.com/gbadev-org/awesome-gbadev)
 
 ### [GameCube (GC)](https://en.wikipedia.org/wiki/GameCube)
 
+- [[Github Topic] gamecube](https://github.com/topics/gamecube)
+- [[Github Topic] game-cube](https://github.com/topics/game-cube)
 - [[EN] Awesome GameCube Development](https://gamecube.dev/) ([Github (command-tab)](https://github.com/command-tab/awesome-gamecube-development))
 
 ### [Nintendo 64 (N64)](https://en.wikipedia.org/wiki/Nintendo_64)
 
 - [[Github Topic] nintendo64](https://github.com/topics/nintendo64)
+- [[Github Topic] nintendo-64](https://github.com/topics/nintendo-64)
+- [[Github Topic] n64](https://github.com/topics/n64)
 - [[EN: Github] Awesome N64 Development (command-tab)](https://github.com/command-tab/awesome-n64-development)
 
 ### [Nintendo DS (NDS)](https://en.wikipedia.org/wiki/Nintendo_DS)
 
 - [[Github Topic] nintendo-ds](https://github.com/topics/nintendo-ds)
+- [[Github Topic] nds](https://github.com/topics/nds)
 - [[EN: Github] Awesome DS Development (asiekierka)](https://github.com/asiekierka/awesome-dsdev)
 - [[EN: Github] Awesome NDS (ninjaraven)](https://github.com/ninjaraven/awesome-nds)
 - [[EN: Github] Nintendo DS Homebrew Development (jdriselvato)](https://github.com/jdriselvato/NDS-Homebrew-Development)
@@ -111,6 +125,7 @@
 ### [Nintendo 3DS (3DS)](https://en.wikipedia.org/wiki/Nintendo_3DS)
 
 - [[Github Topic] nintendo-3ds](https://github.com/topics/nintendo-3ds)
+- [[Github Topic] 3ds](https://github.com/topics/3ds)
 - [[EN: Github] Awesome Nintendo 3DS (kuragehimekurara1)](https://github.com/kuragehimekurara1/Awesome-Nintendo-3DS)
 
 ### [Wii](https://en.wikipedia.org/wiki/Wii)

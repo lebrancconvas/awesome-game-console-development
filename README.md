@@ -197,6 +197,9 @@
 - [[Github Topic] sega-genesis](https://github.com/topics/sega-genesis)
 - [[Github Topic] segamegadrive](https://github.com/topics/segamegadrive)
 - [[Github Topic] sega-megadrive](https://github.com/topics/sega-megadrive)
+- [[EN: Github] Awesome Mega Drive Development (And-0)](https://github.com/And-0/awesome-megadrive)
+- [[EN: Github] Awesome Sega Genesis / Mega Drive Development (PaulTheRoman)](https://github.com/PaulTheRoman/awesome-smd-sg-dev)
+- [[EN: Github] Awesome Sega Genesis / Mega Drive]
 - [[EN: Video Playlist] Sega Genesis & Mega Drive Game Dev Beginners Tutorial Series (SGDK) (Pigsy's Retro Game Dev Tutorials)](https://www.youtube.com/playlist?list=PL1xqkpO_SvY2_rSwHTBIBxXMqmek--GAb)
 
 ### [Sega GameGear](https://en.wikipedia.org/wiki/Game_Gear)

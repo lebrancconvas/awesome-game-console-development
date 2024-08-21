@@ -56,6 +56,7 @@
 - [[EN: Github] Awesome Emulator (DerekTurtleRoe)](https://github.com/DerekTurtleRoe/awesome-emulators)
 - [[EN: Github] Awesome Open Source Emulators (alnacle)](https://github.com/alnacle/awesome-emulators)
 - [[EN: Github] Awesome Emulators & Simulators (mcicolella)](https://github.com/mcicolella/awesome-emulators-simulators)
+- [[EN: Github] Awesome Emulator Development Resources (marethyu)](https://github.com/marethyu/awesome-emu-resources)
 - [[EN: Github] Awesome Portablizing (mackieks)](https://github.com/mackieks/awesome-portablizing)
 
 ## [Nintendo](https://en.wikipedia.org/wiki/Nintendo)'s Game Console

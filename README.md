@@ -227,12 +227,12 @@
 ### [Microsoft Xbox](https://en.wikipedia.org/wiki/Xbox_(console))
 
 - [[Github Topic] xbox](https://github.com/topics/xbox)
+- [[EN: Github] Awesome Xbox Development (command-tab)](https://github.com/command-tab/awesome-xbox-development)
 
 ### [Microsoft Xbox 360](https://en.wikipedia.org/wiki/Xbox_360)
 
 - [[Github Topic] xbox360](https://github.com/topics/xbox360)
 - [[Github Topic] xbox-360](https://github.com/topics/xbox-360)
-- [[EN: Github] Awesome Xbox Development (command-tab)](https://github.com/command-tab/awesome-xbox-development)
 
 ### [Microsoft Xbox One](https://en.wikipedia.org/wiki/Xbox_One)
 

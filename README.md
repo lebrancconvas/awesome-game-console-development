@@ -71,10 +71,12 @@
 ### [Super Family Computer (Super Famicom: SFC) / Super Nintendo Entertainment System (SNES)](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)
 
 - [[Github Topic] snes](https://github.com/topics/snes)
+- [[Github Topic] super-nintendo-entertainment-system](https://github.com/topics/super-nintendo-entertainment-system)
 - [[EN] Super Nintendo Architecture (Rodrigo Copetti)](https://www.copetti.org/writings/consoles/super-nintendo/)
 
 ### [Game Boy (GB)](https://en.wikipedia.org/wiki/Game_Boy)
 
+- [[Github Topic] Game Boy](https://github.com/topics/gameboy)
 - [[EN] gbdev.io](https://gbdev.io/)
 - [[EN: Github] Awesome Game Boy Development (gbdev)](https://github.com/gbdev/awesome-gbdev)
 - [[EN] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) ([JSON](https://gbdev.io/gb-opcodes/Opcodes.json))

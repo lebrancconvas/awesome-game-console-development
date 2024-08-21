@@ -174,16 +174,30 @@
 
 ### [Sega Genesis / Sega MegaDrive](https://en.wikipedia.org/wiki/Sega_Genesis)
 
+- [[Github Topic] segagenesis](https://github.com/topics/segagenesis)
+- [[Github Topic] sega-genesis](https://github.com/topics/sega-genesis)
+- [[Github Topic] segamegadrive](https://github.com/topics/segamegadrive)
+- [[Github Topic] sega-megadrive](https://github.com/topics/sega-megadrive)
 - [[EN: Video Playlist] Sega Genesis & Mega Drive Game Dev Beginners Tutorial Series (SGDK) (Pigsy's Retro Game Dev Tutorials)](https://www.youtube.com/playlist?list=PL1xqkpO_SvY2_rSwHTBIBxXMqmek--GAb)
 
 ### [Sega GameGear](https://en.wikipedia.org/wiki/Game_Gear)
 
+- [[Github Topic] gamegear](https://github.com/topics/gamegear)
+- [[Github Topic] game-gear](https://github.com/topics/game-gear)
+
 ### [Sega Pico](https://en.wikipedia.org/wiki/Sega_Pico)
+
+- [[Github Topic] sega-pico](https://github.com/topics/sega-pico)
 
 ### [Sega Saturn](https://en.wikipedia.org/wiki/Sega_Saturn)
 
+- [[Github Topic] segasaturn](https://github.com/topics/segasaturn)
+- [[Github Topic] sega-saturn](https://github.com/topics/sega-saturn)
+
 ### [Sega Dreamcast](https://en.wikipedia.org/wiki/Dreamcast)
 
+- [[Github Topic] dreamcast](https://github.com/topics/dreamcast)
+- [[Github Topic] sega-dreamcast](https://github.com/topics/sega-dreamcast)
 - [[EN: Github] Awesome Dreamcast (dreamcastdevs)](https://github.com/dreamcastdevs/awesome-dreamcast)
 
 ## [Microsoft](https://en.wikipedia.org/wiki/Microsoft)'s Game Console

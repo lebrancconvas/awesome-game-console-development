@@ -67,7 +67,8 @@
 - [[Github Topic] nes-emulator](https://github.com/topics/nes-emulator)
 - [[EN: Github] NES Development (denisenepraunig)](https://github.com/denisenepraunig/nes-development)
 - [[EN: Github] NES Starter Kit (igwgames)](https://github.com/igwgames/nes-starter-kit)
-- [[EN] How to Program NES Game in C](https://nesdoug.com/)
+- [[EN: Youtube Playlist] NES Emulator (Emulation Online)](https://www.youtube.com/playlist?list=PLE79nlAT59CgWf0_WBJb1CnFsVT8--7w1)
+- [[EN: Text] How to Program NES Game in C](https://nesdoug.com/)
 
 ### [Super Family Computer (Super Famicom: SFC) / Super Nintendo Entertainment System (SNES)](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)
 

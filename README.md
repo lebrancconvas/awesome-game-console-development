@@ -90,7 +90,13 @@
 
 - [[Github Topic] snes](https://github.com/topics/snes)
 - [[Github Topic] super-nintendo-entertainment-system](https://github.com/topics/super-nintendo-entertainment-system)
-- [[EN] Super Nintendo Architecture (Rodrigo Copetti)](https://www.copetti.org/writings/consoles/super-nintendo/)
+- [[EN: Text] Super Nintendo Architecture (Rodrigo Copetti)](https://www.copetti.org/writings/consoles/super-nintendo)
+- [[EN: Text] The hearts of the SNES (Fabien Sanglard)](https://fabiensanglard.net/snes_hearts)
+- [[EN: Text]  Evolution of the SNES motherboard (Fabien Sanglard)](https://fabiensanglard.net/snes_mobos)
+- [[EN: Text] Inside the SNES cartridges (Fabien Sanglard)](https://fabiensanglard.net/snes_carts)
+- [[EN: Text] Designing the SNES Video System (Fabien Sanglard)](https://fabiensanglard.net/snes_video)
+- [[EN: Text] How the SNES Graphics System works (Fabien Sanglard)](https://fabiensanglard.net/snes_ppus_how)
+- [[EN: Text] SNES: Sprites and backgrounds rendering (Fabien Sanglard)](https://fabiensanglard.net/snes_ppus_why)
 
 ### [Game Boy (GB)](https://en.wikipedia.org/wiki/Game_Boy)
 

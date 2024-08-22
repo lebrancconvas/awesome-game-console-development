@@ -59,6 +59,22 @@
 - [[EN: Github] Awesome Emulator Development Resources (marethyu)](https://github.com/marethyu/awesome-emu-resources)
 - [[EN: Github] Awesome Portablizing (mackieks)](https://github.com/mackieks/awesome-portablizing)
 
+## Video Game
+
+### Video Game Development
+
+- [[EN: Github] Awesome Video Game Technology Analysis (OTFCG)](https://github.com/OTFCG/Awesome-Game-Analysis)
+- [[EN: Github] Awesome Learn Gamedev (notpresident35)](https://github.com/notpresident35/awesome-learn-gamedev)
+- [[EN: Github] Awesome GameDev (FronkonGames)](https://github.com/FronkonGames/Awesome-Gamedev)
+- [[EN: Github] Awesome Game Dev (mbrukman)](https://github.com/mbrukman/awesome-game-dev)
+- [[EN: Github] Awesome Gamedev (Calinou)](https://github.com/Calinou/awesome-gamedev)
+- [[EN: Github] Awesome Game Networking (rumaniel)](https://github.com/rumaniel/Awesome-Game-Networking)
+- [[EN: Github] Awesome Game Engine Development (stevinz)](https://github.com/stevinz/awesome-game-engine-dev)
+- [[EN: Github] Awesome Game Engines (ChessMax)](https://github.com/ChessMax/awesome-game-engines)
+- [[EN: Github] Awesome Game Production (vhladiienko)](https://github.com/vhladiienko/awesome-game-production)
+- [[EN: Github] Awesome Gaming List (K3V1991)](https://github.com/K3V1991/Awesome-Gaming-List)
+
+
 ## [Nintendo](https://en.wikipedia.org/wiki/Nintendo)'s Game Console
 
 ### [Family Computer (Famicom: FC) / Nintendo Entertainment System (NES)](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
@@ -256,18 +272,3 @@
 - [[Github Topic] neogeo](https://github.com/topics/neogeo)
 - [[Github Topic] neo-geo](https://github.com/topics/neo-geo)
 - [[EN: Github] ngdevkit - Open Source Development for Neo Geo (dciabrin)](https://github.com/dciabrin/ngdevkit)
-
-## Video Game
-
-### Video Game Development
-
-- [[EN: Github] Awesome Video Game Technology Analysis (OTFCG)](https://github.com/OTFCG/Awesome-Game-Analysis)
-- [[EN: Github] Awesome Learn Gamedev (notpresident35)](https://github.com/notpresident35/awesome-learn-gamedev)
-- [[EN: Github] Awesome GameDev (FronkonGames)](https://github.com/FronkonGames/Awesome-Gamedev)
-- [[EN: Github] Awesome Game Dev (mbrukman)](https://github.com/mbrukman/awesome-game-dev)
-- [[EN: Github] Awesome Gamedev (Calinou)](https://github.com/Calinou/awesome-gamedev)
-- [[EN: Github] Awesome Game Networking (rumaniel)](https://github.com/rumaniel/Awesome-Game-Networking)
-- [[EN: Github] Awesome Game Engine Development (stevinz)](https://github.com/stevinz/awesome-game-engine-dev)
-- [[EN: Github] Awesome Game Engines (ChessMax)](https://github.com/ChessMax/awesome-game-engines)
-- [[EN: Github] Awesome Game Production (vhladiienko)](https://github.com/vhladiienko/awesome-game-production)
-- [[EN: Github] Awesome Gaming List (K3V1991)](https://github.com/K3V1991/Awesome-Gaming-List)

@@ -58,6 +58,7 @@
 - [[EN: Github] Awesome Emulators & Simulators (mcicolella)](https://github.com/mcicolella/awesome-emulators-simulators)
 - [[EN: Github] Awesome Emulator Development Resources (marethyu)](https://github.com/marethyu/awesome-emu-resources)
 - [[EN: Github] Awesome Portablizing (mackieks)](https://github.com/mackieks/awesome-portablizing)
+- [[EN: Youtube Playlist] [CS] Emulator / Console Development (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKGKO7Tc3fjDBv_00gTX2-a2)
 
 ## Video Game
 

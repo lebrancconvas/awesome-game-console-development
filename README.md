@@ -91,6 +91,7 @@
 
 - [[Github Topic] snes](https://github.com/topics/snes)
 - [[Github Topic] super-nintendo-entertainment-system](https://github.com/topics/super-nintendo-entertainment-system)
+- [[EN: Youtube Playlist] Super NES Features (Retro Game Mechanics Explained)](https://www.youtube.com/playlist?list=PLHQ0utQyFw5KCcj1ljIhExH_lvGwfn6GV)
 - [[EN: Text] Super Nintendo Architecture (Rodrigo Copetti)](https://www.copetti.org/writings/consoles/super-nintendo)
 - [[EN: Text] The hearts of the SNES (Fabien Sanglard)](https://fabiensanglard.net/snes_hearts)
 - [[EN: Text]  Evolution of the SNES motherboard (Fabien Sanglard)](https://fabiensanglard.net/snes_mobos)

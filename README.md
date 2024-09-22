@@ -273,6 +273,14 @@
 
 - [[Github Topic] xbox-series-x](https://github.com/topics/xbox-series-x)
 
+## [Atari](https://en.wikipedia.org/wiki/Atari)'s Game Console
+
+### Atari 2600
+
+### Atari 5200
+
+### Atari 7800
+
 ## Other Game Console
 
 ### [SNK Neo Geo](https://en.wikipedia.org/wiki/Neo_Geo_(system))

@@ -288,3 +288,7 @@
 - [[Github Topic] neogeo](https://github.com/topics/neogeo)
 - [[Github Topic] neo-geo](https://github.com/topics/neo-geo)
 - [[EN: Github] ngdevkit - Open Source Development for Neo Geo (dciabrin)](https://github.com/dciabrin/ngdevkit)
+
+### [Asus ROG Ally](https://en.wikipedia.org/wiki/Asus_ROG_Ally)
+
+- [[EN: Github] Asus ROG Ally Guide (mikeroyal)](https://github.com/mikeroyal/Asus-ROG-Ally-Guide)

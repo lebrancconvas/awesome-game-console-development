@@ -277,9 +277,15 @@
 
 ### [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600)
 
+- [[Github Topic] atari-2600](https://github.com/topics/atari-2600)
+
 ### [Atari 5200](https://en.wikipedia.org/wiki/Atari_5200)
 
+- [[Github Topic] atari-5200](https://github.com/topics/atari-5200)
+
 ### [Atari 7800](https://en.wikipedia.org/wiki/Atari_7800)
+
+- [[Github Topic] atari-7800](https://github.com/topics/atari-7800)
 
 ## Other Game Console
 

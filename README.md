@@ -275,11 +275,11 @@
 
 ## [Atari](https://en.wikipedia.org/wiki/Atari)'s Game Console
 
-### Atari 2600
+### [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600)
 
-### Atari 5200
+### [Atari 5200](https://en.wikipedia.org/wiki/Atari_5200)
 
-### Atari 7800
+### [Atari 7800](https://en.wikipedia.org/wiki/Atari_7800)
 
 ## Other Game Console
 

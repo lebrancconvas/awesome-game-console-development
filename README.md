@@ -287,6 +287,10 @@
 
 - [[Github Topic] atari-7800](https://github.com/topics/atari-7800)
 
+### [Atari Lynx](https://en.wikipedia.org/wiki/Atari_Lynx)
+
+- [[Github Topic] atari-lynx](https://github.com/topics/atari-lynx)
+
 ## Other Game Console
 
 ### [SNK Neo Geo](https://en.wikipedia.org/wiki/Neo_Geo_(system))

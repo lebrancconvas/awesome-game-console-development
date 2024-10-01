@@ -75,6 +75,13 @@
 - [[EN: Github] Awesome Portablizing (mackieks)](https://github.com/mackieks/awesome-portablizing)
 - [[EN: Youtube Playlist] [CS] Emulator / Console Development (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKGKO7Tc3fjDBv_00gTX2-a2)
 
+### ROM
+
+- [[Github Topic] romhack](https://github.com/topics/romhack)
+- [[EN: Github] Awesome-Rom-Hacking (romh-acking)](https://github.com/romh-acking/Awesome-Rom-Hacking)
+- [[EN: Github] awesome-romhacking (btelwy)](https://github.com/btelwy/awesome-romhacking)
+- [[EN: Github] Awesome-CustomROM (ImKKingshuk)](https://github.com/ImKKingshuk/Awesome-CustomROM)
+
 ## Video Game
 
 ### Video Game Development

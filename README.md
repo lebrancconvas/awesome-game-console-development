@@ -1,6 +1,6 @@
 # Awesome Game Console Development
 
-## Programming
+## Programming Language
 
 ### Assembly
 

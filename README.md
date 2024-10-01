@@ -4,6 +4,8 @@
 
 ### Assembly
 
+- [[EN: Github] awesome-asm (Maijin)](https://github.com/Maijin/awesome-asm)
+- [[EN: Github] awesome-assembler (Hack-Labs)](https://github.com/Hack-Labs/awesome-assembler)
 - [[EN: Video Playlist] [CS] Lang: Assembly (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKHnBzHf-ur7fOugVkUdgLnd)
 - [[EN: Video Playlist] [CS] Lang: Assembly (ARM) (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKFMRPpRZoE8SSUWHgFV1BSI)
 - [[EN: Video Playlist] [CS] lang: Assembly (x86) (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKFxSw0CQ1KCAFDDZ3eu24Vw)
@@ -14,6 +16,8 @@
 
 ### C
 
+- [[EN: Github] awesome-c (oz123)](https://github.com/oz123/awesome-c)
+- [[EN: Github] awesome-c (uhub)](https://github.com/uhub/awesome-c)
 - [[EN: Video Playlist] [CS] Lang: C (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKGEwqlWYt-Zd04z7zj6SdeG)
 - [[EN: Video Playlist] C Programming and Data Structures (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 - [[EN: Video] Learn C Programming and OOP with Dr. Chuck [feat. classic book by Kernighan and Ritchie] (freeCodeCamp)](https://www.youtube.com/watch?v=PaPN51Mm5qQ)
@@ -21,8 +25,19 @@
 
 ### C++
 
+- [[EN: Github] awesome-cpp (uhub)](https://github.com/uhub/awesome-cpp)
+- [[EN: Github] awesome-cpp (fffaraz)](https://github.com/fffaraz/awesome-cpp)
 - [[EN: Video Playlist] C++ Programming (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS)
 - [[EN: Video Playlist] C++ (The Cherno)](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+
+### Rust
+
+- [[EN: Github] awesome-rust (rust-unofficial)](https://github.com/rust-unofficial/awesome-rust)
+- [[EN: Github] awesome-rust (awesome-rust-com)](https://github.com/awesome-rust-com/awesome-rust)
+- [[EN: Video Playlist] [CS Knowledge] Language - Rust (Lebranc Convas)](https://www.youtube.com/playlist?list=PL4gb8oBUMvan04jx76rLKhKPYDdM3eQX7)
+- [[TH: Video Playlist] พื้นฐานภาษา Rust (Rayato159)](https://www.youtube.com/playlist?list=PLUg0hJGmtzyo5rGZ0UCaP5EiIoRNiBrmU)
+- [[EN: Text] The Rust Programming Language Handbook (Rust Doc)](https://doc.rust-lang.org/book)
+- [[EN: Text] Gist Rust (gist.rs)](https://book.gist.rs/rust)
 
 ### TypeScript
 
@@ -91,7 +106,7 @@
 - [[EN: Youtube Playlist] 6502 Assembly Crash Course (NesHacker)](https://www.youtube.com/playlist?list=PLgvDB6LWam2WvoFvh8tlUqbqw92qWM0aP)
 - [[EN: Text] NESdev Wikipedia (NESdev Wiki)](https://www.nesdev.org/wiki)
 - [[EN: Text] Nintendo Entertainment System (NES) Architecture (Rodrigo Copetti)](https://www.copetti.org/writings/consoles/nes)
-- [[EN: Text] How to Program NES Game in C](https://nesdoug.com/)
+- [[EN: Text] How to Program NES Game in C (nesdoug)](https://nesdoug.com/)
 
 ### [Super Family Computer (Super Famicom: SFC) / Super Nintendo Entertainment System (SNES)](https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System)
 

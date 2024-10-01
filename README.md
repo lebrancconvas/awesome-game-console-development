@@ -41,10 +41,14 @@
 
 ### TypeScript
 
+- [[EN / TH] [CS] Lang: TypeScript (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKFwJyTHzq_-v3mCe7Bjqlq3)
 - [[EN: Video Playlist] RISC-V CPU in TypeScript (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH)
 - [[EN: Video Playlist] FPGA and gateway-ts (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW7oI7nhYLic8qU6NX3k_EOz)
 - [[EN: Video] I wrote a GameBoy game in TypeScript (And it runs on real hardware!) (Low Byte Productions)](https://www.youtube.com/watch?v=TIlx5nBnx-o)
 - [[EN: Video] TypeScript For Embedded Programming?? (ThePrimeTime)](https://www.youtube.com/watch?v=5RcfjvQl75w&pp=ygUUVHlwZVNjcmlwdCBIYXJkd2FyZSA%3D)
+- [[EN: Text] TypeScript Documentation](https://www.typescriptlang.org/docs)
+- [[EN: Text] TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [[EN: Text] TypeScript Deep Dive (Basarat)](https://basarat.gitbook.io/typescript)
 
 ## Hardware / Electronic / Computer Architecture / Low Level Concepts
 

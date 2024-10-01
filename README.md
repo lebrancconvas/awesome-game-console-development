@@ -36,6 +36,7 @@
 - [[EN: Github] awesome-rust (awesome-rust-com)](https://github.com/awesome-rust-com/awesome-rust)
 - [[EN: Video Playlist] [CS Knowledge] Language - Rust (Lebranc Convas)](https://www.youtube.com/playlist?list=PL4gb8oBUMvan04jx76rLKhKPYDdM3eQX7)
 - [[TH: Video Playlist] พื้นฐานภาษา Rust (Rayato159)](https://www.youtube.com/playlist?list=PLUg0hJGmtzyo5rGZ0UCaP5EiIoRNiBrmU)
+- [[TH: Video] สรุป Ownership, References and Borrowing และ Lifetimes ใน Rust แบบสั้นๆ (Rayato159)](https://www.youtube.com/watch?v=UHKm_S4O3-I)
 - [[EN: Text] The Rust Programming Language Handbook (Rust Doc)](https://doc.rust-lang.org/book)
 - [[EN: Text] Gist Rust (gist.rs)](https://book.gist.rs/rust)
 

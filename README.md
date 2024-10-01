@@ -41,7 +41,7 @@
 
 ### TypeScript
 
-- [[EN / TH] [CS] Lang: TypeScript (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKFwJyTHzq_-v3mCe7Bjqlq3)
+- [[EN / TH: Video Playlist] [CS] Lang: TypeScript (Lebranc Convas)](https://www.youtube.com/playlist?list=PLaA8NIuqRmKFwJyTHzq_-v3mCe7Bjqlq3)
 - [[EN: Video Playlist] RISC-V CPU in TypeScript (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH)
 - [[EN: Video Playlist] FPGA and gateway-ts (Low Byte Productions)](https://www.youtube.com/playlist?list=PLP29wDx6QmW7oI7nhYLic8qU6NX3k_EOz)
 - [[EN: Video] I wrote a GameBoy game in TypeScript (And it runs on real hardware!) (Low Byte Productions)](https://www.youtube.com/watch?v=TIlx5nBnx-o)

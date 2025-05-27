@@ -335,3 +335,7 @@
 ### [Asus ROG Ally](https://en.wikipedia.org/wiki/Asus_ROG_Ally)
 
 - [[EN: Github] Asus ROG Ally Guide (mikeroyal)](https://github.com/mikeroyal/Asus-ROG-Ally-Guide)
+
+### [Steam Deck](https://en.wikipedia.org/wiki/Steam_Deck)
+
+- [[EN: Github] Awesome Steam Deck (airscripts)](https://github.com/airscripts/awesome-steam-deck)

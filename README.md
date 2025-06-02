@@ -148,9 +148,10 @@
 - [[Github Topic] gameboy-color](https://github.com/topics/gameboy-color)
 - [[Github Topic] gbc](https://github.com/topics/gbc)
 - [[GIthub Topic] cgb](https://github.com/topics/cgb)
-- [[EN] gbdev.io](https://gbdev.io/)
+- [[EN: Text] gbdev.io](https://gbdev.io/)
 - [[EN: Github] Awesome Game Boy Development (gbdev)](https://github.com/gbdev/awesome-gbdev)
-- [[EN] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) ([JSON](https://gbdev.io/gb-opcodes/Opcodes.json))
+- [[EN: Text] Game Boy Emulator Development Guide (hacktix.github.io)](https://hacktix.github.io/GBEDG)
+- [[EN: Text] Game Boy CPU (SM83) instruction set (gbdev.io)](https://gbdev.io/gb-opcodes/optables) ([JSON](https://gbdev.io/gb-opcodes/Opcodes.json))
 
 ### [Game Boy Advance (GBA)](https://en.wikipedia.org/wiki/Game_Boy_Advance)
 

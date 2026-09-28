@@ -307,6 +307,7 @@
 ### [Microsoft Xbox Series X](https://en.wikipedia.org/wiki/Xbox_Series_X_and_Series_S)
 
 - [[Github Topic] xbox-series-x](https://github.com/topics/xbox-series-x)
+- [[EN: Github] XCP](https://github.com/Daniele-Cangi/xcp-xbox) - Open-source Windows-to-Xbox Series X Developer Mode platform for building, adapting, executing and verifying software on a physical console.
 
 ## [Atari](https://en.wikipedia.org/wiki/Atari)'s Game Console
 

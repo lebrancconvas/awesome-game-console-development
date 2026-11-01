@@ -263,6 +263,12 @@
 - [[EN: Github] Awesome Sega Genesis / Mega Drive (DogedomStudioS)](https://github.com/DogedomStudioS/awesome-genesis-mega-drive)
 - [[EN: Video Playlist] Sega Genesis & Mega Drive Game Dev Beginners Tutorial Series (SGDK) (Pigsy's Retro Game Dev Tutorials)](https://www.youtube.com/playlist?list=PL1xqkpO_SvY2_rSwHTBIBxXMqmek--GAb)
 
+### [Sega Master System](https://en.wikipedia.org/wiki/Sega_Master_System)
+
+- [[Github Topic] sega-master-system](https://github.com/topics/sega-master-system)
+- [[EN: Website] SMS Power!](https://www.smspower.org/) - Community hub for the Sega 8-bit systems: documentation, disassemblies, homebrew and game research
+- [[EN: Github] Power Strike (SMS) disassembly + RLE compressor toolkit (Noema)](https://github.com/noema-lands/power-strike-teardown) - Z80 disassembly and RLE graphics decompressor/recompressor toolkit for the 1991 Master System shoot-em-up
+
 ### [Sega GameGear](https://en.wikipedia.org/wiki/Game_Gear)
 
 - [[Github Topic] gamegear](https://github.com/topics/gamegear)
